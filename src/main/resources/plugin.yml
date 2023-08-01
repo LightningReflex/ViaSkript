@@ -1,0 +1,6 @@
+name: ViaSkript
+version: '${project.version}'
+main: me.lightningreflex.viaskript.ViaSkript
+description: Make it so you can grab the player's version in Skript while using ViaVersion.
+author: LightningReflex
+depend: [Skript, ViaVersion]
