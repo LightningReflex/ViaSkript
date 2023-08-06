@@ -2,7 +2,7 @@
 
 <p id="description">Get player's protocol version, even if you have ViaVersion using skript. You obviously need ViaVersion And Skript for this to work.</p>
 
-<p style="text-align: center;"><img src="https://img.shields.io/github/license/LightningReflex/Rerouted" alt="shields"></p>
+<p style="text-align: center;"><img src="https://img.shields.io/github/license/LightningReflex/ViaSkript" alt="shields"></p>
 <p>&nbsp;</p>
 
 <h2>📝 Syntax</h2>
